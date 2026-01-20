@@ -9,7 +9,7 @@
   介绍：经典电影遇上科技光影✨ 我们用数字技术复刻文物肌理，让流动的光线成为连接过去与现在的桥梁，让古老的罗马符号在今天 “活” 过来！
   工具：Photoshop + Figma + Midjourney + Wix studio + MadMapper（用AIGC辅助生成潮流视觉元素）
   👉 [在线体验]https://xueyingliu1111.wixstudio.com/my-site-1
-  📸 ![MadMapper工作过程](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/madmapper-projection-process-01.png?raw=true)
+  📸 ![MadMapper工作过程](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/madmapper-projection-mapping-process-01.jpg.png?raw=true)
   
   
 - **AIGC工具辅助设计作品＋社区品牌传播物料（年轻潮流风格实践）**

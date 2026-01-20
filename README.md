@@ -5,41 +5,54 @@
 ### 项目方向（附工具落地能力）
 #### 1. 视觉设计类
 - **电商运营页面设计（适配小红书商城风格）**
-  工具：Photoshop + Figma + Midjourney（用AIGC辅助生成潮流视觉元素）
+  主题：深上业城
+  工具：Photoshop + Figma + Midjourney + Wix studio + MadMapper（用AIGC辅助生成潮流视觉元素）
+  
+  
 - **社区品牌传播物料（年轻潮流风格实践）**
   工具：Adobe Illustrator + AE（动效设计）
+  
 - **AIGC工具辅助设计作品**
   工具：Midjourney / 混元AI / 即梦AI（风格化视觉生成）
 
 
 #### 2. 体验设计类
 - **产品交互原型（用户流程优化）**
-  工具：Figma + Kivicube（实现轻量互动原型）
+  适配项目：澳门奢华型酒店服务人员系统升级
+  设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
+  工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
+
+  
 - **网页UI界面设计（响应式适配）**
-  工具：Figma + Wix studio（电商页面落地）
+  主题：面向澳洲豪宅家居装修线上画廊网站
+  介绍：聚焦澳洲豪宅家居装修赛道，打造专属线上画廊电商网站，完成从设计到落地的全链路实操。
+  工具：Figma + Wix studio + 可灵 + 豆包（电商页面落地）
+  👉 [在线体验]https://rimu19.wixstudio.com/artyy
+  
 - **交互装置**
   主题：【漫游城市地区语言文化探索】-装置作品
-  介绍：
-  工具：Unity / Kivicube / Touchdesigner/ Adobe Illustrator（实现平面和交互联动，良好体验感）
-  👉 [在线访问]
+  介绍：以「语言共振」为核心概念，通过可视化语言转译技术，将参与者的语言输入转化为动态粒子影像，呈现文化共生的视觉效果。作品通过沉浸式交互体验，引导观众关注地区文化流失议题，兼具艺术表达与社会思考。
+  工具：Unity ＋ Kivicube ＋ Touchdesigner＋ Adobe Illustrator＋ Rhino ＋ Keyshot（实现平面和交互联动，良好体验感）
+  🎬 [观看演示](https://www.bilibili.com/video/BV1QV5TzoEAN/)
 
 #### 3. 沉浸式虚拟空间类
 - **小众虚拟展陈空间设计**
 - 1.主题：【瓷器】-沉浸式展陈空间
-  介绍：该展览展示了将瓷器的发展历史（更具商业性）
-  工具：Spatial＋sora＋即梦ai（粒子海报，互动式虚拟空间搭建）
-  👉 [在线访问]https://www.spatial.io/s/golden_okapi51s-Bespoke-Hangout-6936bda2ab39474d1b1b36d1?share=8751881348207789541（需要VPN）
+  介绍：以 “瓷器的商业进化史” 为主题，打造兼具文化感与传播性的展览。通过潮流视觉设计与轻量互动，让观众轻松读懂瓷器从手作工艺到商业 IP 的发展脉络。
+  工具：Spatial＋Sora＋即梦ai（粒子海报，互动式虚拟空间搭建）
+  👉 [在线体验]https://www.spatial.io/s/golden_okapi51s-Bespoke-Hangout-6936bda2ab39474d1b1b36d1?share=8751881348207789541（需要VPN）
   
 - 2.主题：【业】-沉浸式展陈空间
-  介绍：该项目以展览与装置的结合形式呈现，旨在探讨现实世界与虚拟世界中行为与信息之间的关系。通过当今偶像所创造的字符集，他们自身的行为以及周围人的行为导致了字符集的崩溃与重建。这一过程类似于佛教中的“业力”和“轮回”（即转世）的概念，其中偶像与“业力”相对应，而崩溃与“轮回”相对应。该项目融入了佛教的符号和风格。（更具艺术性）
+  介绍：以 “现实 × 虚拟” 的行为信息流转为核心，用展览 + 装置的形式打造一场潮流哲思展。我们把当代偶像的符号体系玩出了新花样：偶像的行为和大众互动会让字符集 “崩溃又重生”，这正好对应佛教 “业力” 与 “轮回” 的概念。整个作品充满佛教符号与东方美学，让年轻人在打卡互动中，看懂虚拟行为如何影响现实世界。
   工具：Newartcity＋rhino＋Adobe Illustrator（互动式虚拟空间搭建）
   亮点：交互动效 + 虚拟空间
-  👉 [在线访问]https://newart.city/show/karma （需要VPN）
+  👉 [在线体验]https://newart.city/show/karma （需要VPN）
 
 
 ### 工具技能（分类展示）
 #### 1. 交互/设计工具
 Figma / Unity / Kivicube / Touchdesigner（交互软件）
+MadMapper（空间投影）
 Photoshop / Adobe Illustrator / Adobe XD / LR / ID / AE（平面&视觉工具）
 
 #### 2. AIGC工具

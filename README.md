@@ -1,13 +1,15 @@
 # xueying-design-portfolio
-## 小红书校招·视觉/体验设计方向作品集
+## 小红书校招·体验/视觉设计方向作品集
 
 
 ### 项目方向（附工具落地能力）
 #### 1. 视觉设计类
 - **电商运营页面设计（适配小红书商城风格）**
-  主题：深上业城
+  主题：深业上城
+  介绍：经典电影遇上科技光影✨ 我们用数字技术复刻文物肌理，让流动的光线成为连接过去与现在的桥梁，让古老的罗马符号在今天 “活” 过来！
   工具：Photoshop + Figma + Midjourney + Wix studio + MadMapper（用AIGC辅助生成潮流视觉元素）
-  
+  👉 [在线体验]https://xueyingliu1111.wixstudio.com/my-site-1
+  📸制作原型
   
 - **社区品牌传播物料（年轻潮流风格实践）**
   工具：Adobe Illustrator + AE（动效设计）
@@ -21,6 +23,8 @@
   适配项目：澳门奢华型酒店服务人员系统升级
   设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
   工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
+  📸 ![产品交互原型1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
+  📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
 
   
 - **网页UI界面设计（响应式适配）**

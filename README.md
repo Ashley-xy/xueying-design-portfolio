@@ -11,13 +11,13 @@
   👉 [在线体验]https://xueyingliu1111.wixstudio.com/my-site-1
   📸 ![MadMapper工作过程](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/madmapper-projection-process-01.png?raw=true)
   
-- **社区品牌传播物料（年轻潮流风格实践）**
-  工具：Adobe Illustrator + AE（动效设计）
   
-- **AIGC工具辅助设计作品**
+- **AIGC工具辅助设计作品＋社区品牌传播物料（年轻潮流风格实践）**
   适配项目：抽象画作生动化
   设计亮点：精准描述画面的毛绒质感和色彩特征，体现 AI 转译的过程；点明画的羽毛质感，同时突出 AI 让画面 “呼吸” 起来的动态效果。
   工具：Midjourney / 混元AI / 即梦AI（风格化视觉生成）
+  🎥 [动态效果1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/1aigc-video.mp4?raw=true)
+  🎥 [动态效果2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/2aigc-video.mp4?raw=true)
 
 
 #### 2. 体验设计类

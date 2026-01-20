@@ -5,16 +5,18 @@
 ### 项目方向（附工具落地能力）
 #### 1. 视觉设计类
 - **电商运营页面设计（适配小红书商城风格）**
-  主题：深业上城
+  主题：深业上城【罗马假日】
   介绍：经典电影遇上科技光影✨ 我们用数字技术复刻文物肌理，让流动的光线成为连接过去与现在的桥梁，让古老的罗马符号在今天 “活” 过来！
   工具：Photoshop + Figma + Midjourney + Wix studio + MadMapper（用AIGC辅助生成潮流视觉元素）
   👉 [在线体验]https://xueyingliu1111.wixstudio.com/my-site-1
-  📸制作原型
+  📸 ![MadMapper工作过程](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/madmapper-projection-process-01.png?raw=true)
   
 - **社区品牌传播物料（年轻潮流风格实践）**
   工具：Adobe Illustrator + AE（动效设计）
   
 - **AIGC工具辅助设计作品**
+  适配项目：抽象画作生动化
+  设计亮点：精准描述画面的毛绒质感和色彩特征，体现 AI 转译的过程；点明画的羽毛质感，同时突出 AI 让画面 “呼吸” 起来的动态效果。
   工具：Midjourney / 混元AI / 即梦AI（风格化视觉生成）
 
 

@@ -19,6 +19,11 @@
   🎥 [动态效果1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/1aigc-video.mp4?raw=true)
   🎥 [动态效果2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/2aigc-video.mp4?raw=true)
 
+- **AIGC工具辅助设计作品＋旅行APP新功能落地（AI赋能体验实践）**
+  适配项目：旅行 APP - AI 旅行助手
+  设计亮点：生成品牌视觉语言，将 AI 生成的旅行方案、智能推荐等功能，以直观、轻量化的界面呈现；突出 “AI 懂旅行” 的核心卖点，通过动态交互让用户感知到 AI 的智能与温度。
+  工具：Figma（高保真原型 + 交互动效）/ 文心一言，豆包（AI 功能逻辑原型）
+  👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
 
 #### 2. 体验设计类
 - **产品交互原型（用户流程优化）**

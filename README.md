@@ -1,5 +1,11 @@
 # xueying-design-portfolio
-## AIGC/交互/体验/视觉设计方向作品集
+## AIGC/交互/体验/视觉平面设计方向作品集
+
+### 综合设计作品集（全领域）
+- **服务交互 · 工业设计 · 平面设计 完整作品集 PDF**
+  内容：涵盖服务流程优化、智能硬件产品设计、品牌视觉与平面物料设计，系统呈现跨领域设计能力与项目落地经验。
+  工具：Figma / Rhino / Keyshot / Adobe 系列等
+  👉 [查看完整作品集](https://raw.githubusercontent.com/Ashley-xy/xueying-design-portfolio/main/刘雪盈-作品集.pdf)
 
 
 ### 项目方向（附工具落地能力）
@@ -10,7 +16,6 @@
   工具：Photoshop + Figma + Midjourney + Wix studio + MadMapper（用AIGC辅助生成潮流视觉元素）
   👉 [在线体验]https://xueyingliu1111.wixstudio.com/my-site-1
   📸 ![MadMapper工作过程](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/madmapper-projection-mapping-process-01.jpg.png?raw=true)
-  
   
 - **AIGC工具辅助设计作品＋社区品牌传播物料（年轻潮流风格实践）**
   适配项目：抽象画作生动化
@@ -26,25 +31,24 @@
   👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
 
 #### 2. 体验设计类
-- **产品交互原型（用户流程优化）**
-  适配项目：澳门奢华型酒店服务人员系统升级
-  设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
-  工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
-  📸 ![产品交互原型1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
-  📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
-
-  
 - **网页UI界面设计（响应式适配）**
   主题：面向澳洲豪宅家居装修线上画廊网站
   介绍：聚焦澳洲豪宅家居装修赛道，打造专属线上画廊电商网站，完成从设计到落地的全链路实操。
-  工具：Figma + Wix studio + 可灵 + 豆包（电商页面落地）
-  👉 [在线体验]https://rimu19.wixstudio.com/artyy
+  工具：Figma + Wix studio （电商页面落地）
+  👉 [在线体验]Artyy.com.au
   
 - **交互装置**
   主题：【漫游城市地区语言文化探索】-装置作品
   介绍：以「语言共振」为核心概念，通过可视化语言转译技术，将参与者的语言输入转化为动态粒子影像，呈现文化共生的视觉效果。作品通过沉浸式交互体验，引导观众关注地区文化流失议题，兼具艺术表达与社会思考。
   工具：Unity ＋ Kivicube ＋ Touchdesigner＋ Adobe Illustrator＋ Rhino ＋ Keyshot（实现平面和交互联动，良好体验感）
   🎬 [观看演示](https://www.bilibili.com/video/BV1QV5TzoEAN/)
+
+  - **产品交互原型（用户流程优化）**
+  适配项目：澳门奢华型酒店服务人员系统升级
+  设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
+  工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
+  📸 ![产品交互原型1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
+  📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
 
 #### 3. 沉浸式虚拟空间类
 - **小众虚拟展陈空间设计**

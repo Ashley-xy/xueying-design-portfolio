@@ -19,16 +19,23 @@
 - **产品交互原型（用户流程优化）**
   适配项目：澳门奢华型酒店系统&服务人员系统升级
   设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
-  工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
+  工具：Figma + Adobe XD（实现轻量互动原型）
   📸 ![产品交互原型1](高保真图片.jpg)
   📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
   📸 ![产品交互原型3](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
 
-- **AIGC工具辅助设计作品＋旅行APP新功能落地（AI赋能体验实践）**
-  适配项目：旅行 APP - AI 旅行助手
-  设计亮点：生成品牌视觉语言，将 AI 生成的旅行方案、智能推荐等功能，以直观、轻量化的界面呈现；突出 “AI 懂旅行” 的核心卖点，通过动态交互让用户感知到 AI 的智能与温度。
-  工具：Figma（高保真原型 + 交互动效）/ 文心一言，豆包（AI 功能逻辑原型）
-  👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
+- **AIGC工具辅助设计作品（AI赋能体验实践）**
+  - **智能穿戴手环 Warm-weave 交互设计（用户情感关怀体验实践）**
+   适配项目：Warm-weave 智能穿戴手环配套APP
+   设计亮点：以「情感天气」为核心交互模块，打造白紫极简风格穿戴端界面；新增「情感画布」功能，通过用户情绪数据自动生成专属画作并发布至社区，实现家人间的情感同步与温暖陪伴，完整呈现移动端交互逻辑。
+   工具：Figma（高保真原型 + 交互动效）/ Figma Make（可交互原型落地）
+   👉 [在线体验](https://www.figma.com/make/2dt2HCANp4gdIuPhfpieOC/Interactive-Grocery-Mobile-App?t=eAhUXWccmMkBURMC-1)
+
+  - **AI旅行助手交互设计（轻量化旅行规划体验实践）**
+   适配项目：旅行 APP - AI 旅行助手
+   设计亮点：生成品牌视觉语言，将 AI 生成的旅行方案、智能推荐等功能，以直观、轻量化的界面呈现；突出 “AI 懂旅行” 的核心卖点，通过动态交互让用户感知到 AI 的智能与温度。
+   工具：Figma（高保真原型 + 交互动效）/ 文心一言，豆包（AI 功能逻辑原型）
+   👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
 
 - **交互装置**
   主题：【漫游城市地区语言文化探索】-装置作品
@@ -50,7 +57,7 @@
   亮点：交互动效 + 虚拟空间
   👉 [在线体验]https://newart.city/show/karma （需要VPN）
 
-  #### 3. 视觉设计类
+#### 3. 视觉设计类
 - **电商运营页面设计**
   主题：深业上城【罗马假日】
   介绍：经典电影遇上科技光影✨ 我们用数字技术复刻文物肌理，让流动的光线成为连接过去与现在的桥梁，让古老的罗马符号在今天 “活” 过来！

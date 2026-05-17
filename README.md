@@ -14,15 +14,21 @@
   主题：面向澳洲豪宅家居装修线上画廊网站
   介绍：聚焦澳洲豪宅家居装修赛道，打造专属线上画廊电商网站，完成从设计到落地的全链路实操。
   工具：Figma + Wix studio （电商页面落地）
-  👉 [在线体验]Artyy.com.au
+  👉 [在线体验](https://Artyy.com.au)
 
-  - **产品交互原型（用户流程优化）**
+- **产品交互原型（用户流程优化）**
   适配项目：澳门奢华型酒店系统&服务人员系统升级
   设计亮点：优化酒店打扫卫生的交互流程，简化“入住客房-用户偏好-客房服务”的操作步骤，提升酒店服务人员效率
   工具：Figma + Kivicube/ Adobe XD（实现轻量互动原型）
-  📸
-  📸 ![产品交互原型1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
-  📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
+  📸 ![产品交互原型1](高保真图片.jpg)
+  📸 ![产品交互原型2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype1.png.jpg?raw=true)
+  📸 ![产品交互原型3](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/product-prototype2.png.png?raw=true)
+
+- **AIGC工具辅助设计作品＋旅行APP新功能落地（AI赋能体验实践）**
+  适配项目：旅行 APP - AI 旅行助手
+  设计亮点：生成品牌视觉语言，将 AI 生成的旅行方案、智能推荐等功能，以直观、轻量化的界面呈现；突出 “AI 懂旅行” 的核心卖点，通过动态交互让用户感知到 AI 的智能与温度。
+  工具：Figma（高保真原型 + 交互动效）/ 文心一言，豆包（AI 功能逻辑原型）
+  👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
 
 - **交互装置**
   主题：【漫游城市地区语言文化探索】-装置作品
@@ -59,11 +65,6 @@
   🎥 [动态效果1](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/1aigc-video.mp4?raw=true)
   🎥 [动态效果2](https://github.com/Ashley-xy/xueying-design-portfolio/blob/main/2aigc-video.mp4?raw=true)
 
-- **AIGC工具辅助设计作品＋旅行APP新功能落地（AI赋能体验实践）**
-  适配项目：旅行 APP - AI 旅行助手
-  设计亮点：生成品牌视觉语言，将 AI 生成的旅行方案、智能推荐等功能，以直观、轻量化的界面呈现；突出 “AI 懂旅行” 的核心卖点，通过动态交互让用户感知到 AI 的智能与温度。
-  工具：Figma（高保真原型 + 交互动效）/ 文心一言，豆包（AI 功能逻辑原型）
-  👉 [在线体验]https://www.figma.com/make/T1xJBkmUbzTSBP9BOt0Yqr/Minimalist-sidebar-component?t=cci7QzaAyDIjZJXH-1&preview-route=%2Fchat
 
 
 ### 工具技能（分类展示）
